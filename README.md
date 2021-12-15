@@ -1,5 +1,11 @@
-<a href="https://gong-story.tistory.com" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-### Hi there 👋
+<a href="https://gong-story.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF9800?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+
+### Hi 👋
+안녕하세요!!<br/>
+회사의 성장통을 함께 겪어가며 성장하고 싶은 Developer입니다.
+
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=dmswo&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dmswo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dmswo)
 
 <!--
 **dmswo/dmswo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
